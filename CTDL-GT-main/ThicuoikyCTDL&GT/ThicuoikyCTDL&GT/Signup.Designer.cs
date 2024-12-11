@@ -70,7 +70,7 @@
             this.btnSignUpComplete.TabIndex = 10;
             this.btnSignUpComplete.Text = "Hoàn tất đăng kí";
             this.btnSignUpComplete.UseVisualStyleBackColor = true;
-            this.btnSignUpComplete.Click += new System.EventHandler(this.btnSignUpComplete_Click_1);
+            this.btnSignUpComplete.Click += new System.EventHandler(this.btnSignUpComplete_Click);
             // 
             // SignUpPagePassWordButton
             // 
@@ -91,7 +91,7 @@
             this.SUPageUsernameTextBox.Name = "SUPageUsernameTextBox";
             this.SUPageUsernameTextBox.Size = new System.Drawing.Size(581, 54);
             this.SUPageUsernameTextBox.TabIndex = 8;
-            this.SUPageUsernameTextBox.TextChanged += new System.EventHandler(this.SUPageUsernameTextBox_TextChanged_1);
+            this.SUPageUsernameTextBox.TextChanged += new System.EventHandler(this.SUPageUsernameTextBox_TextChanged);
             // 
             // label4
             // 

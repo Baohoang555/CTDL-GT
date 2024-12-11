@@ -8,20 +8,28 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace ThicuoikyCTDL_GT
 {
 
     public partial class HomePageForm : Form
     {
-        public BinaryTree UserListBinaryTree = new BinaryTree();
+        //public BinarySearchTree UserListBinaryTree = new BinaryTree();
 
         public HomePageForm()
         {
             InitializeComponent(); // MUST come first!
             this.Load += new System.EventHandler(this.Form1_Load);
-            UserListBinaryTree.Insert(new NodeData("khaihoan.tran", "khaihoan123"));
 
+            NodeData data = new NodeData();
+            data.username = "khaihoan.tran";
+            data.password = "khaihoan123";
+            data.phoneNumber = "0396835632";
+            data.fullname = "Tran Khai Hoan";
+            data.identifier = "31161020990";
+
+            BinaryTreeManager.Insert(data);
 
             this.HomePageLoginButton.Click += HomePageLoginButton_Click;
         }
@@ -30,19 +38,21 @@ namespace ThicuoikyCTDL_GT
 
             Signup signup = new Signup();
             signup.Show();
-            this.Hide();
 
 
         }
         private void HomePageLoginButton_Click(object sender, EventArgs e)
         {
-            Console.WriteLine(UserTextBox.Text);
-
-            var existingUsername = this.UserListBinaryTree.Find(UserTextBox.Text);
+            //BinaryTreeManager.TranverseInOrder(BinaryTreeManager.Root);
+            var existingUsername = BinaryTreeManager.Find(UserTextBox.Text);
+            //MessageBox.Show("username: " + existingUsername.Data.username + ", password: " + existingUsername.Data.password);
 
             if (existingUsername != null && existingUsername.Data.password == PWTextBox.Text)
             {
                 MessageBox.Show("Đăng nhập thành công.");
+                Information informationForm = new Information(existingUsername.Data);
+                informationForm.Show();
+                this.Hide();
             }
             else { MessageBox.Show("Đăng nhập thất bại."); }
         }
@@ -174,7 +184,8 @@ namespace ThicuoikyCTDL_GT
 
         private void HomePageSignupButton_Click_1(object sender, EventArgs e)
         {
-
+            Signup signUp = new Signup();
+            signUp.Show();
         }
     }
 }

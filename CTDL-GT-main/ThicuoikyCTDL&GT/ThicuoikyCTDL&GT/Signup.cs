@@ -33,11 +33,15 @@ namespace ThicuoikyCTDL_GT
                 return;
             }
             //Get the main form (HomePageForm) instance
-            HomePageForm homePageForm = (HomePageForm)Application.OpenForms["HomePageForm"];
+            //HomePageForm homePageForm = (HomePageForm)Application.OpenForms["HomePageForm"];
             //add user data to the binary tree
-            if (homePageForm != null)
-                homePageForm.UserListBinaryTree.Insert(new NodeData(SUPageUsernameTextBox.Text, SignUpPagePassWordButton.Text));
+            NodeData data = new NodeData();
+            data.username = SUPageUsernameTextBox.Text;
+            data.password = SignUpPagePassWordButton.Text;
+
+            BinaryTreeManager.Insert(data);
             MessageBox.Show("Đăng ký thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            
             this.DialogResult = DialogResult.OK;
             this.Close();
 
@@ -49,16 +53,6 @@ namespace ThicuoikyCTDL_GT
         }
 
         private void SUPageUsernameTextBox_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void SUPageUsernameTextBox_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnSignUpComplete_Click_1(object sender, EventArgs e)
         {
 
         }

@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BinarySearchTree.cs" />
     <Compile Include="Information.cs">
       <SubType>Form</SubType>
     </Compile>

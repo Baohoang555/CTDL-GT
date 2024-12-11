@@ -22,3 +22,16 @@ C:\Users\PC\Desktop\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\Thi
 C:\Users\PC\Desktop\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.exe
 C:\Users\PC\Desktop\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.pdb
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\bin\Debug\ThicuoikyCTDL&GT.exe.config
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\bin\Debug\ThicuoikyCTDL&GT.exe
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\bin\Debug\ThicuoikyCTDL&GT.pdb
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL_GT.Forgot_Information.resources
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL_GT.HomePageForm.resources
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL_GT.Information.resources
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL_GT.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL_GT.Signup.resources
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.csproj.GenerateResource.cache
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.exe
+C:\Users\Administrator\Source\Repos\CTDL-GT\CTDL-GT-main\ThicuoikyCTDL&GT\ThicuoikyCTDL&GT\obj\Debug\ThicuoikyCTDL&GT.pdb
