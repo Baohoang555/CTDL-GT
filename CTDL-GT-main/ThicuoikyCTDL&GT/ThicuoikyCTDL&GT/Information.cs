@@ -12,8 +12,8 @@ namespace ThicuoikyCTDL_GT
 {
     public partial class Information : Form
     {
-        private NodeData _data;
-        public Information(NodeData data)
+        private UserInformation _data;
+        public Information(UserInformation data)
         {
             _data = data;
 
@@ -28,6 +28,30 @@ namespace ThicuoikyCTDL_GT
             HomePageForm homePageForm = new HomePageForm();
             homePageForm.Show();
             this.Hide();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            string fullName = this.FullNameTxtBox.Text;
+            string PhoneNumber = this.PhoneNumberTxtBox.Text;
+            string Identifier = this.IdentifierTxtBox.Text;
+
+            UserInformation updating = new UserInformation();
+
+            updating.username = this._data.username;
+            updating.password = this._data.password;
+            updating.fullname = fullName;
+            updating.phoneNumber = PhoneNumber; 
+            updating.identifier = Identifier;
+
+            bool updated = BinaryTreeManager.Update(updating);
+
+            if (updated) {
+                MessageBox.Show("Chỉnh sửa thành công");
+            } else
+            {
+                MessageBox.Show("Chỉnh sửa thất bại");
+            }
         }
     }
 }

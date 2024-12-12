@@ -80,6 +80,7 @@
             this.btnUpdate.TabIndex = 10;
             this.btnUpdate.Text = "Sửa lại";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // btnBackMain
             // 

@@ -35,7 +35,7 @@ namespace ThicuoikyCTDL_GT
             //Get the main form (HomePageForm) instance
             //HomePageForm homePageForm = (HomePageForm)Application.OpenForms["HomePageForm"];
             //add user data to the binary tree
-            NodeData data = new NodeData();
+            UserInformation data = new UserInformation();
             data.username = SUPageUsernameTextBox.Text;
             data.password = SignUpPagePassWordButton.Text;
 

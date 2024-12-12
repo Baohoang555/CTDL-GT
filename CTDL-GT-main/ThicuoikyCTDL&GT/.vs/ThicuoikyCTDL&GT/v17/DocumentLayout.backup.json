@@ -1,41 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\forgot information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\forgot information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|c:\\users\\administrator\\source\\repos\\ctdl-gt\\ctdl-gt-main\\thicuoikyctdl\u0026gt\\thicuoikyctdl\u0026gt\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|c:\\users\\administrator\\source\\repos\\ctdl-gt\\ctdl-gt-main\\thicuoikyctdl\u0026gt\\thicuoikyctdl\u0026gt\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|c:\\users\\administrator\\source\\repos\\baohoang555\\ctdl-gt\\ctdl-gt-main\\thicuoikyctdl\u0026gt\\thicuoikyctdl\u0026gt\\forgot information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\forgot information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\information.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\binarysearchtree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\information.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|c:\\users\\administrator\\source\\repos\\baohoang555\\ctdl-gt\\ctdl-gt-main\\thicuoikyctdl\u0026gt\\thicuoikyctdl\u0026gt\\userinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\userinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\thicuoikyctdl\u0026gt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C496CCA4-96C6-4D20-B629-B5356D691B26}|ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT.csproj|solutionrelative:thicuoikyctdl\u0026gt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -46,67 +50,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
+              "Title": "UserInformation.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\UserInformation.cs",
+              "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\UserInformation.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\UserInformation.cs",
+              "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\UserInformation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:31:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Signup.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Signup.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Signup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:34:09.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "BinarySearchTree.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\BinarySearchTree.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\BinarySearchTree.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\BinarySearchTree.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\BinarySearchTree.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\BinarySearchTree.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\BinarySearchTree.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAAAHEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwBQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:11:12.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Information.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Information.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Information.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:09:42.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Information.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.Designer.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Information.Designer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.Designer.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Information.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:09:06.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Information.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Information.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Information.cs [Design]",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Information.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:07:06.371Z",
@@ -114,24 +131,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Signup.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.Designer.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Signup.Designer.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Signup.Designer.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Signup.Designer.cs",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:07:02.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Forgot Information.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Forgot Information.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Forgot Information.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Forgot Information.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Forgot Information.cs [Design]",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Forgot Information.cs [Design]",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Forgot Information.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:06:27.513Z",
@@ -139,24 +156,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Form1.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Form1.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Form1.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Form1.cs",
-              "ViewState": "AgIAAJUAAAAAAAAAAADwv7kAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T16:04:33.478Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Program.cs",
               "RelativeDocumentMoniker": "ThicuoikyCTDL\u0026GT\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Baohoang555\\CTDL-GT\\CTDL-GT-main\\ThicuoikyCTDL\u0026GT\\ThicuoikyCTDL\u0026GT\\Program.cs",
               "RelativeToolTip": "ThicuoikyCTDL\u0026GT\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

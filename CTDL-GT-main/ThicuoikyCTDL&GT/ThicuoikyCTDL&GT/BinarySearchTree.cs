@@ -7,21 +7,21 @@ using System.Windows.Forms;
 
 namespace ThicuoikyCTDL_GT
 {
-    public class NodeData
-    {
-        public string username { get; set; }
-        public string password { get; set; }
+    //public class UserInformation
+    //{
+    //    public string username { get; set; }
+    //    public string password { get; set; }
 
-        public string fullname { get; set; }
-        public string identifier { get; set; }
-        public string phoneNumber { get; set; }
-    }
+    //    public string fullname { get; set; }
+    //    public string identifier { get; set; }
+    //    public string phoneNumber { get; set; }
+    //}
 
     public class Node
     {
         public Node LeftNode { get; set; }
         public Node RightNode { get; set; }
-        public NodeData Data { get; set; }
+        public UserInformation Data { get; set; }
     }
 
     public static class BinaryTreeManager
@@ -29,7 +29,7 @@ namespace ThicuoikyCTDL_GT
         public static Node Root { get; private set; }
 
 
-        public static bool Insert(NodeData data)
+        public static bool Insert(UserInformation data)
         {
             Node before = null, after = Root;
 
@@ -73,6 +73,32 @@ namespace ThicuoikyCTDL_GT
             return true;
         }
 
+        public static bool Update(UserInformation data)
+        {
+            Node before = null, after = Root;
+
+            while (after != null)
+            {
+                before = after;
+                if (String.Compare(data.username, after.Data.username) > 0)
+                {
+                    after = after.RightNode;
+                }
+                else if (String.Compare(data.username, after.Data.username) < 0)
+                {
+                    after = after.LeftNode;
+                }
+                else
+                {
+                    after.Data = data;
+                    return true;
+                }
+
+            }
+
+            return false;
+        }
+
         public static void TranverseInOrder(Node parent)
         {
             if(parent != null)
@@ -89,7 +115,7 @@ namespace ThicuoikyCTDL_GT
 
         public static Node Find(string username)
         {
-            return FindBaseOnParent(username, BinaryTreeManager.Root);
+            return FindBaseOnParent(username, Root);
         }
 
         private static Node FindBaseOnParent(string username, Node parent)

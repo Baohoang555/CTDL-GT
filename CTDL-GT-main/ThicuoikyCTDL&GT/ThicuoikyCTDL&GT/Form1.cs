@@ -22,7 +22,7 @@ namespace ThicuoikyCTDL_GT
             InitializeComponent(); // MUST come first!
             this.Load += new System.EventHandler(this.Form1_Load);
 
-            NodeData data = new NodeData();
+            UserInformation data = new UserInformation();
             data.username = "khaihoan.tran";
             data.password = "khaihoan123";
             data.phoneNumber = "0396835632";
